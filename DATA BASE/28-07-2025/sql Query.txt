@@ -1,0 +1,6 @@
+1)Create Database:
+CREATE DATABASE topstech
+
+2)Create Table:
+CREATE TABLE info(id int PRIMARY KEY AUTO_INCREMENT,empno int(11),Firstname varchar(30),LastName varchar(30),Designation varchar(30),Hiredate varchae(30),salary int(11),comm varchra(20),DeptNo varchar(30))
+
